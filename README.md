@@ -7,5 +7,5 @@ Ph.D. candidate in condensed matter theory at UT Austin, specializing in computa
 - Experience with parallel numerical algorithms (OpenMP), large parameter sweeps, and reproducible HPC workflows.
 
 ### Public Repositories
-- **[Computational Physics Final Project] RMK_tokamak**: Numerical methods project demonstrating simulation and plotting.
+- **RMK_tokamak [Computational Physics Final Project]**: Numerical methods project demonstrating simulation and plotting.
 - **typed_notes**: LaTeX-based research notes on quantum materials, topology, and electronic structure.
