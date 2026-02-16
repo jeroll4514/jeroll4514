@@ -4,7 +4,7 @@ Ph.D. candidate in condensed matter theory at UT Austin, specializing in computa
 
 ### Research & Software
 - Developing a standalone C++ Hartree-Fock solver for multilayer graphene systems, with automated workflows and post-processing (public release in preparation).
-- Experience with parallel numerical algorithms (OpenMP), large parameter sweeps, and reproducible HPC workflows.
+- Experience with parallel numerical algorithms (OpenMP/MPI), large parameter sweeps, and reproducible HPC workflows.
 
 ### Public Repositories
 - **dft2tb**: turns standard DFT outputs into the associated tight-binding parameters (Honors Undergraduate Thesis).
